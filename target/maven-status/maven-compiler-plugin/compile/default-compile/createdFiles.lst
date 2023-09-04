@@ -1,0 +1,5 @@
+com/example/springpio/manager/GpioManager.class
+com/example/SpringpioApplication.class
+com/example/springpio/configuration/SwaggerConfig.class
+com/example/springpio/controller/GpioRestController.class
+com/example/springpio/controller/InfoRestController.class
